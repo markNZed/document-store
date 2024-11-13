@@ -23,7 +23,7 @@ By creating a new repo using this template, you'll get the following advantages:
    import statements.
 4. Replace any occurrence of `example_store` and `example-store` across the repo, according
    to the name you chose in the previous steps.
-5. Search the whole codebase for the string `#FIXME`, that's where you're supposed to change or add
+5. Search the whole codebase for the string `# FIXME`, that's where you're supposed to change or add
    code specific for the database you're integrating.
 6. If Apache 2.0 is not suitable for your needs, change the software license.
 
